@@ -4,7 +4,6 @@ from selenium import webdriver
 class CreateTodo(unittest.TestCase):
     def setUp(self):
         self.browser = webdriver.Chrome("C:\\Users\\Kristina\\Downloads\\chromedriver_win32\\chromedriver.exe")
-        self.browser.get("https://ancient-taiga-22967.herokuapp.com/user/todos")
 
     def user_signin(self):
         self.browser.get("https://ancient-taiga-22967.herokuapp.com")
