@@ -1,6 +1,7 @@
 import unittest
 from selenium import webdriver
 
+
 class CreateTodo(unittest.TestCase):
     def setUp(self):
         self.browser = webdriver.Chrome("C:\\Users\\Kristina\\Downloads\\chromedriver_win32\\chromedriver.exe")
@@ -32,8 +33,8 @@ class CreateTodo(unittest.TestCase):
         self.title = self.browser.find_element_by_xpath('//*[@id="title"]')
         self.title.send_keys("task1")
 
-        self.date = self.browser.find_element_by_xpath('//*[@id="dueDate"]')
-        self.date.send_keys("07/05/2014")
+        self.date_field = self.browser.find_element_by_xpath('//*[@id="dueDate"]')
+        self.date_field.send_keys("07/05/2014")
 
         self.priority = self.browser.find_element_by_xpath('//*[@id="priority"]')
         self.priority.send_keys("MEDIUM")
