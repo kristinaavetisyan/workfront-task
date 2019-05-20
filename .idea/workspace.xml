@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f6e2d0-8ebc-4871-a8b5-bfcc507798f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CreateTodoTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTodoTests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignInTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/SignInTests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SignInTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="663">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CreateTodoTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -29,13 +42,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CreateTodoTests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -66,8 +79,9 @@
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/CreateTodo.py" />
-        <option value="$PROJECT_DIR$/SignInTests.py" />
         <option value="$PROJECT_DIR$/CreateTodoTest.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/SignInTests.py" />
         <option value="$PROJECT_DIR$/CreateTodoTests.py" />
       </list>
     </option>
@@ -197,20 +211,11 @@
       <updated>1558170859861</updated>
       <workItem from="1558170871715" duration="43884000" />
       <workItem from="1558276369423" duration="7811000" />
-      <workItem from="1558285178924" duration="4338000" />
+      <workItem from="1558285178924" duration="6656000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_SignInTests_py - 2019.05.19 at 10h 58m 27s.xml">
-      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_SignInTests_py - 2019.05.19 at 11h 00m 24s.xml">
-      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_SignInTests_py - 2019.05.19 at 16h 12m 27s.xml">
-      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_SignInTests_py - 2019.05.19 at 16h 19m 47s.xml">
       <configuration name="Unittests in SignInTests.py" configurationId="tests" />
     </history-entry>
@@ -232,9 +237,18 @@
     <history-entry file="Unittests_in_SignInTests_py - 2019.05.19 at 19h 23m 32s.xml">
       <configuration name="Unittests in SignInTests.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_SignInTests_py - 2019.05.20 at 00h 23m 37s.xml">
+      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SignInTests_py - 2019.05.20 at 08h 22m 38s.xml">
+      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SignInTests_py - 2019.05.20 at 08h 30m 37s.xml">
+      <configuration name="Unittests in SignInTests.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56033000" />
+    <option name="totallyTimeSpent" value="58351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,12 +263,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.24357034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49778762" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5022124" side_tool="true" weight="0.2397882" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4942717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5090016" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,8 +291,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WorkfrontTest$Unittests_in_SignInTests_py.coverage" NAME="Unittests in SignInTests.py Coverage Results" MODIFIED="1558269130326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/workfront_task$Unittests_in_SignInTests_py.coverage" NAME="Unittests in SignInTests.py Coverage Results" MODIFIED="1558279388097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/workfront_task$CreateTodoTests.coverage" NAME="CreateTodoTests Coverage Results" MODIFIED="1558295107383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workfront_task$Unittests_in_SignInTests_py.coverage" NAME="Unittests in SignInTests.py Coverage Results" MODIFIED="1558326608556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/workfront_task$CreateTodoTests.coverage" NAME="CreateTodoTests Coverage Results" MODIFIED="1558326798237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WorkfrontTest$test.coverage" NAME="test Coverage Results" MODIFIED="1558202292097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WorkfrontTest$CreateTodoTests.coverage" NAME="CreateTodoTests Coverage Results" MODIFIED="1558275746222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -292,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SignInTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -302,11 +316,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CreateTodoTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="85">
+          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

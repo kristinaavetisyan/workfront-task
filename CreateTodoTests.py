@@ -1,7 +1,6 @@
 import unittest
 from selenium import webdriver
 
-
 class CreateTodo(unittest.TestCase):
     def setUp(self):
         self.browser = webdriver.Chrome("C:\\Users\\Kristina\\Downloads\\chromedriver_win32\\chromedriver.exe")

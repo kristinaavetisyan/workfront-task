@@ -35,7 +35,7 @@ class SignIn(unittest.TestCase):
         assert self.browser.current_url == "https://ancient-taiga-22967.herokuapp.com/login.do"
 
     def tearDown(self):
-         self.browser.quit()
+        self.browser.quit()
 
 
 
